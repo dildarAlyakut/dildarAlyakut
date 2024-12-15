@@ -1,5 +1,5 @@
 - Hi, I’m @dildarAlyakut
--  I’m interested in basketball...
+- I’m interested in basketball...
 - I’m currently learning .. python.
 -
 
